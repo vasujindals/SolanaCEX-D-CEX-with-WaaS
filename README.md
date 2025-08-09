@@ -1,4 +1,5 @@
-#SolanaCEX: D-CEX with WaaS
+# SolanaCEX: D-CEX with WaaS
+
 SolCex is a **Decentralized–Centralized Exchange (D-CEX)** — a hybrid trading platform that combines the **self-custody and transparency** of a DEX (Decentralized Exchange) with the **speed, simplicity, and onboarding experience** of a CEX (Centralized Exchange).  
 Users keep control of their funds while enjoying an **intuitive, CEX-like interface** and **fast order execution**.
 
